@@ -10,3 +10,7 @@
 🛠️ **Technologies** : Python (yfinance, pandas), statistiques financières  
 
  **Résultat** : Portefeuille diversifié avec **rendement annualisé de 32.5%** pour un risque de **19.9%**.  
+
+## Références
+- Markowitz, H. (1952). Portfolio Selection. Journal of Finance.
+- Sharpe, W. F. (1966). Mutual Fund Performance. Journal of Business.
